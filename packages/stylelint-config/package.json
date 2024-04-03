@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-config-bk",
+  "version": "0.0.0",
+  "description": "bk stylelint-config",
+  "author": "bk",
+  "homepage": "https://github.com/wangZheng4/day02#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "keywords": [
+    "bk",
+    "stylelint",
+    "style",
+    "lint"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangZheng4/day02.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/wangZheng4/day02/issues"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^4.1.0"
+  }
+}

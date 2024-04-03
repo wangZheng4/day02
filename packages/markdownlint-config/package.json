@@ -1,0 +1,11 @@
+{
+  "name": "bk-markdownlint-config",
+  "version": "0.0.1",
+  "description": "bk markdown 文档规范",
+  "author": "bk",
+  "license": "ISC",
+  "main": "index.json",
+  "devDependencies": {
+    "markdownlint": "^0.34.0"
+  }
+}
